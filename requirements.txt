@@ -1,0 +1,8 @@
+fire
+tqdm
+numpy
+scipy
+pandas
+diskcache
+lightning
+transformers
