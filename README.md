@@ -94,7 +94,7 @@ In the above command:
 * `--start_time` indicates the start date of the prediction output.
 * `--days` indicates the duration (in days) of the prediction output.
 
-The trained model and samples can be downloaded from [here](https://drive.google.com/drive/folders/1vnSSuKBrSqa0q4bV50fgn3J1DDr_yRrh?usp=sharing). After using the given command, you'll receive an output similar to the following:
+The trained model and samples can be downloaded from [here](https://doi.org/10.5281/zenodo.8198049). After using the given command, you'll receive an output similar to the following:
 ```bash
 {"datetime": "2022-01-16 06:00:00", "dose": 20}
 {"datetime": "2022-01-16 16:30:00", "dose": 16}
