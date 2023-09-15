@@ -115,3 +115,6 @@ The trained model and samples can be downloaded from [here](https://doi.org/10.5
 - `ts_pipe.py`: The script for preprocessing the raw data
 - `requirements.txt`: List of required dependencies
 - `README.md`: This README file
+
+## Citation
+Please cite this article:  Wang, G., Liu, X., Ying, Z. et al. Optimized glycemic control of type 2 diabetes with reinforcement learning: a proof-of-concept trial. Nat Med (2023). https://doi.org/10.1038/s41591-023-02552-9
